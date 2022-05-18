@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 230, 233);
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    text-align: center;
+}
+p {
+    margin: 20px;
+    margin-block: 20px 40px;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 10%;
+  height: 1.5rem;            /* Footer height */
+}
+.comment-box{
+    border: 1px solid;
+    margin: 50px 0;
+    padding: 10px 20px;
+}
+.comment-box h3{
+    text-align: left;
+}
+.comment-form input, .comment-form textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background:rgb(253, 250, 251);
+}
+.comment-form button{
+    margin: 10px 0;
+}
