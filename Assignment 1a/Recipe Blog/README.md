@@ -5,7 +5,7 @@
 
 ## Topic: A blog to curate recipes of cakes
 
-The features included are as follows:
+Features:
 
 1.There are two html pages (index.html & recipes.html) made using External and Internal CSS
 
