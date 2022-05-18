@@ -1,6 +1,6 @@
 # Assignment 1 - Part A
  - Author: Shweta Jose
- - NUID: 
+ - NUID: 002988708
  - Email: jose.sh@northeastern.edu
 
 ## Topic: A blog to curate recipes of cakes
