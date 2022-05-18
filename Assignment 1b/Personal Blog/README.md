@@ -9,7 +9,7 @@ Features:
 
 1.There are 7 html pages (index.html, blog.html,  contact.html,  about.html,  post1.html,  post2.html,  post3.html) made using External CSS
 
-2. Homepage is divided into three sections
+2.Homepage is divided into three sections
 
 3.Favicon is used to display the logo of the brand
 
