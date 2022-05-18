@@ -10,6 +10,7 @@ The features included are as follows:
 1.There are two html pages (index.html & recipes.html) made using External and Internal CSS
 
 2.Favicon is used to display the logo of the brand
+
 3.Common html tags & controls used:
 title - To display the title on browser
 header - To display the header on browser
