@@ -7,7 +7,7 @@
 
 Features:
 
-1.There are three html pages (index.html & recipes.html) made using External CSS, and properties like float, column layout structure, absolute position when necessary
+1.There are three html pages (index.html, aboutme.html, and table.css) made using External CSS, and properties like float, column layout structure, absolute position when necessary
 
 2.Favicon is used to display the logo of the brand
 
