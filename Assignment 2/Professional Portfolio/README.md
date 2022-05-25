@@ -15,9 +15,6 @@ Features:
  - title - To display the title on browser
  - header - To display the header on browser
  - nav - To navigate to the different sections of the web pages and navigate to the other two html pages
- - div - To control the structure of the web components & html controls
- - ul & li - To list out the different sections of the web page in the navigation bar
- - section - To divide the web page to different sections
  - img - To add images to the portfolio gallery and "about me" section
  - table - to display the courses taken in graduate school
  - form - To display contact information
@@ -26,6 +23,9 @@ Features:
  - hyperlink - To link projects worked on
  - link - To link the external CSS file
  - meta - To provide meta data of the web page
+ - div - To control the structure of the web components & html controls
+ - ul & li - To list out the different sections of the web page in the navigation bar
+ - section - To divide the web page to different sections
 
 Setup:
  - Open the index.html file on vscode
